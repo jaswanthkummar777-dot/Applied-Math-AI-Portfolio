@@ -1,13 +1,23 @@
 ## Mini Projects
 
-This folder contains selected mini projects demonstrating my
-interest in applied mathematics and introductory artificial
-intelligence using Python.
+This section highlights selected mini projects related to
+applied mathematics and introductory artificial intelligence.
 
-Included projects:
-- Student performance prediction (machine learning regression)
-- Fake news detection (text classification)
-- Resume analysis (basic NLP logic)
+Each project is implemented in its own repository and linked
+below for complete code and implementation details.
 
-Each project is implemented as a separate Python script or
-notebook inside this folder.
+### 1. Student Performance Prediction (Machine Learning)
+Repository:
+https://github.com/jaswanthkummar777-dot/student-performance-ai
+
+### 2. Fake News Detection (Text Classification)
+Repository:
+https://github.com/jaswanthkummar777-dot/ai-fake-news-detector
+
+### 3. Resume Analysis (Basic NLP Logic)
+Repository:
+https://github.com/jaswanthkummar777-dot/ai-resume-analyzer
+
+### 4. Student Marks Calculator (Applied Logic)
+Repository:
+https://github.com/jaswanthkummar777-dot/student-marks-calculator
